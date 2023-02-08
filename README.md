@@ -4,7 +4,7 @@
     </a>
 </p>
 
-- I am Coding on C#, C++, Python, Ren'Py, NSIS, Inno Setup, PHP and HTML
+- I am Coding on C#, C++, Python, Ren'Py, IS(Inno Setup), NSIS, Inno Setup, PHP and HTML
 - Learning Go and Ruby
 - I am from Ukraine, Kyiv
 
