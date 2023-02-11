@@ -10,4 +10,4 @@
 
 ## Donation 
 
-Soon
+[Patreon](https://patreon.com/raizydaizy)
